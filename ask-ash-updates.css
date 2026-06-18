@@ -16,8 +16,8 @@
 
       .ask-ash-results .related-stories__column {
           margin-bottom: 30px;
-          flex-basis: 50%;
-          max-width: 50%;
+          flex-basis:33%;
+          max-width: 33%;
       }
   
   	.ask-ash-assistant-title {
